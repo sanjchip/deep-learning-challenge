@@ -15,13 +15,13 @@ The objective is to optimize the model in order to attain an accuracy score surp
 
 - ## Compiling, Training, and Evaluating the Model
     - I decided to include 3 layers: an input layer with 80 neurons, a second layer with 30 neurons, and an output layer with 1 neuron
-    https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/define%20the%20model.png?raw=true
+    ![Alt text](https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/define%20the%20model.png?raw=true)
 
     - I selected the relu activation function for the first and second layers, and the sigmoid activation function for the output layer since the goal was binary classification
 
     - The first attempt was only 73% accuracy 
-    https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/first%20attempt.png?raw=true
+    ![Alt text](https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/first%20attempt.png?raw=true)
 
     - ## Optimization:
     After adding back "NAME" we increased our accuracy to 78%
-    https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/second%20attempt.png?raw=true
+    ![Alt text](https://github.com/sanjchip/deep-learning-challenge/blob/main/Resources/second%20attempt.png?raw=true)

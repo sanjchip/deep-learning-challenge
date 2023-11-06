@@ -20,3 +20,4 @@ The objective is to optimize the model in order to attain an accuracy score surp
     
     - ## Optimization:
     After adding back "NAME" we increased our accuracy to 78%
+
